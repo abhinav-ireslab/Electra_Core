@@ -1,0 +1,6 @@
+package com.ireslab.sendx.electra.utils;
+
+public enum Status {
+	ACTIVE, SUSPENDED, TERMINATED,BLOCKED, NOT_REGISTERED, PENDING,SUSPEND,NEW,REJECTED,TRANSFERRED;
+
+}

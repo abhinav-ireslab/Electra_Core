@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: electra
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Santosh
+Implementation-Vendor-Id: com.ireslab.sendx
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/electra/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
