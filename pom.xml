@@ -37,19 +37,13 @@
         
         
         <dependency>
-<<<<<<< HEAD
-			<groupId>com.ireslab</groupId>
-	            	<artifactId>sendx-common-lib</artifactId>
-	       		<version>1.1</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/sendx-common-lib-1.1.jar</systemPath>
-=======
+			
+		<groupId>com.ireslab</groupId>
 	        <artifactId>sendx-common-lib</artifactId>
-	        <version>1.1</version>
+	       	<version>1.1</version>
 		<scope>system</scope>
 		<systemPath>${project.basedir}/lib/sendx-common-lib-1.1.jar</systemPath>
->>>>>>> 4dfdb4917aeccff5577e2ff699b36baf00d9a232
-		</dependency>
+	</dependency>
         
         
 
