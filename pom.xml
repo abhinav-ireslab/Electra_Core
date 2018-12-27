@@ -6,7 +6,7 @@
 	<groupId>com.ireslab.sendx</groupId>
 	<artifactId>electra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>electra</name>
 	<description>Electra Platform</description>
