@@ -36,14 +36,13 @@
         </dependency>
         
         
-        <dependency>
-			
+      		<dependency>
 		<groupId>com.ireslab</groupId>
 	        <artifactId>sendx-common-lib</artifactId>
-	       	<version>1.1</version>
+	        <version>1.1</version>
 		<scope>system</scope>
 		<systemPath>${project.basedir}/lib/sendx-common-lib-1.1.jar</systemPath>
-	</dependency>
+		</dependency>
         
         
 
@@ -78,7 +77,7 @@
 			<artifactId>stellar-sdk</artifactId>
 			<version>0.1.9</version>
 			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/stellar-sdk-0.1.9.jar</systemPath>
+		<systemPath>${project.basedir}/lib/stellar-sdk-0.1.9.jar</systemPath>
 		</dependency>
 		
 		
